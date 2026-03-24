@@ -32,4 +32,4 @@ Time-series analysis and forecasting on **33 years of North American freight dat
 
 ## Author
 **Kye Jones** — BS Economics (Business Forecasting), Central Washington University
-Completed as part of ECON 325: Introduction to Forecasting (2023)
+Completed as part of ECON 325: Introduction to Forecasting
